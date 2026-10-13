@@ -1,0 +1,25 @@
+{
+  "name": "hairi.github.io",
+  "version": "1.0.0",
+  "description": "Modern responsive single-page portfolio, redesigned from the supplied CV and previous website HTML.",
+  "main": "script.js",
+  "scripts": {
+    "start": "vite --host 10.11.1.80"
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rontron99/hairi.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rontron99/hairi.github.io/issues"
+  },
+  "homepage": "https://github.com/rontron99/hairi.github.io#readme",
+  "devDependencies": {
+    "vite": "^8.3.4"
+  }
+}
